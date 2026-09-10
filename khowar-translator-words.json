@@ -1,34 +1,163 @@
 [
   {
-    "urdu": "کیسے ہو",
-    "romanUrdu": "kese ho",
-    "khowar": "کچہ اسوس",
-    "romanKhowar": "kicha asus",
+    "urdu": "میرے آنکھوں میں درد ہو رہا ہے",
+    "romanUrdu": "chshmom dard mikan",
+    "khowar": "مہ غیݯ ݯمینیان",
+    "romanKhowar": "ma ghechh chhamenian",
+    "type": "sentence"
+  },
+  {
+    "urdu": "اس کو داخلہ کیا گیا ہے",
+    "romanUrdu": "una dokhila kastan",
+    "khowar": "ہورو داخلہ کوری اسونی",
+    "romanKhowar": "horo dakhila kori asuni",
+    "type": "sentence"
+  },
+  {
+    "urdu": "وہ آج ڈسچارج ہورہے ہیں",
+    "romanUrdu": "uno imrooz discharge mishan",
+    "khowar": "ہتیت ہنون ڈسچارج بونی",
+    "romanKhowar": "hatet hanoon discharge boni",
+    "type": "sentence"
+  },
+  {
+    "urdu": "وہ آج ہسپتال سے ڈسچارج ہو رہے ہیں",
+    "romanUrdu": "uno imrooz aza haspatal discharge mishan",
+    "khowar": "ہتیت ہنون ہسپتالار ڈسچارج بونی",
+    "romanKhowar": "hatet hanoon haspatalar discharge boni",
+    "type": "sentence"
+  },
+  {
+    "urdu": "وہ ہستپال میں ہیں",
+    "romanUrdu": "uno da haspatal an",
+    "khowar": "ہتیت ہسپتالی اسونی",
+    "romanKhowar": "hatet haspatali asuni",
+    "type": "sentence"
+  },
+  {
+    "urdu": "اس کو کینولہ کیا گیا ہے",
+    "romanUrdu": "una kenula kastan",
+    "khowar": "ہورو کینولہ کوری اسونی",
+    "romanKhowar": "horo kenula kori asuni",
+    "type": "sentence"
+  },
+  {
+    "urdu": "بیمار کی طبیعت کیسی ہے",
+    "romanUrdu": "tabiati bihmor asaist",
+    "khowar": "لہازو طبیعت کچہ شیر",
+    "romanKhowar": "lahazo tabiat kicha sher",
+    "type": "sentence"
+  },
+  {
+    "urdu": "کیا آج ڈاکٹر ڈیوٹی کے لئے آتا ہے",
+    "romanUrdu": "imrooz dactar ba duty miata",
+    "khowar": "ہنون ڈاکٹار ڈیوٹیوتے گویانہ",
+    "romanKhowar": "hanoon dactar duty ote goyana",
+    "type": "sentence"
+  },
+  {
+    "urdu": "میرے کان میں درد ہے",
+    "romanUrdu": "gushm dard mikat",
+    "khowar": "مہ کار ݯمیران",
+    "romanKhowar": "ma kaar chhameran",
+    "type": "sentence"
+  },
+  {
+    "urdu": "میرے ناک سے خون بہتا ہے",
+    "romanUrdu": "aza fski ma khun mirat",
+    "khowar": "مہ نسکارین لئے گویان",
+    "romanKhowar": "ma niskarain lay goyan",
+    "type": "sentence"
+  },
+  {
+    "urdu": "مجھے سخت کپکپی طاری ہوتی ہے",
+    "romanUrdu": "mana sakht sarmo-sarmo mikat",
+    "khowar": "مہ سخت اوݰک ݰِݰُو کویان",
+    "romanKhowar": "ma sakht ushak shishu koyan",
+    "type": "sentence"
+  },
+  {
+    "urdu": "میں سخت کھانستا ہوں",
+    "romanUrdu": "mana sakht mislfonat",
+    "khowar": "اوا سخت کھپیمن",
+    "romanKhowar": "awa sakht khhapiman",
+    "type": "sentence"
+  },
+  {
+    "urdu": "میں سخت بخار ہوں",
+    "romanUrdu": "ma sakht bukhor shiam",
+    "khowar": "مہ سخت انداؤ کویان",
+    "romanKhowar": "ma sakht andaaw koyan",
+    "type": "sentence"
+  },
+  {
+    "urdu": "میں سخت بیمار ہوں",
+    "romanUrdu": "ma sakht bihmorm",
+    "khowar": "اوا سخت لہاز اسوم",
+    "romanKhowar": "awa sakht lahaz asum",
+    "type": "sentence"
+  },
+  {
+    "urdu": "امید ہے کہ آپ سب خیریت سے ہونگے",
+    "romanUrdu": "umeed mikm ki shmo soh bakhairit",
+    "khowar": "امید کومن کہ پیسہ صف خیرو سورا بومی",
+    "romanKhowar": "umeed koman ki pisa saf khairo sora bomi",
+    "type": "sentence"
+  },
+  {
+    "urdu": "امید کرتا ہوں",
+    "romanUrdu": "umeed mikm",
+    "khowar": "امید کومن",
+    "romanKhowar": "umeed koman",
+    "type": "sentence"
+  },
+  {
+    "urdu": "امید کرتا ہوں کہ آپ خیریت سے ہونگے",
+    "romanUrdu": "umeed mikm ki shmo bakhairit",
+    "khowar": "امید کومن کہ پیسہ خیرو سورا بومی",
+    "romanKhowar": "umeed koman ki pisa khairo sora bomi",
+    "type": "sentence"
+  },
+  {
+    "urdu": "وعلیکم السلام",
+    "romanUrdu": "Waalaikum-Salam",
+    "khowar": "وعلیکم السلام",
+    "romanKhowar": "Waalaikum-Salam",
+    "type": "sentence"
+  },
+  {
+    "urdu": "اسلام علیکم",
+    "romanUrdu": "Assalam-u-Alaikum",
+    "khowar": "اسلام علیکم",
+    "romanKhowar": "Assalam-u-Alaikum",
     "type": "sentence"
   },
   {
     "urdu": "میں ٹھیک ہوں",
-    "romanUrdu": "me theek hun",
+    "romanUrdu": "ma naghzm",
     "khowar": "اوا جم اسوم",
     "romanKhowar": "awa jam asum",
     "type": "sentence"
   },
   {
-    "urdu": "مجھے سخت پیاس لگی ہے",
-    "romanUrdu": "mujhy sakht pias lagi hai",
-    "khowar": "مہ سخت اوغ پیارو گویان",
-    "romanKhowar": "ma sakht oogh piaru goyan",
+    "urdu": "کیا حال ہے",
+    "romanUrdu": "che hol dori",
+    "khowar": "کچہ اسوس",
+    "romanKhowar": "kicha asus",
     "type": "sentence"
   },
   {
-  "urdu": "میرے سر میں سخت درد ہو رہا ہے",
-  "romanUrdu": "mere sar me sakht dard ho raha hai",
-  "khowar": "مہ کپال سخت ݯمیران",
-  "romanKhowar": "ma kapaal sakht chameran",
-  "type": "sentence"
+    "urdu": "مجھے سخت پیاس لگی ہے",
+    "romanUrdu": "ma sakht tishnow shiam",
+    "khowar": "مہ سخت اوغ پیارو گویان",
+    "romanKhowar": "ma sakht ogh piyaru goyan",
+    "type": "sentence"
+  },
+  {
+    "urdu": "میرے سر میں سخت درد ہو رہا ہے",
+    "romanUrdu": "sari ma sakht dard mikat",
+    "khowar": "مہ کپال سخت ݯمیران",
+    "romanKhowar": "ma kapaal sakht chhameran",
+    "type": "sentence"
   }
-  
-  
-  
-  
 ]
