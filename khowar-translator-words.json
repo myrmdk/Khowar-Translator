@@ -1,163 +1,1093 @@
 [
   {
+    "urdu": "کھائیں گے",
+    "romanFarsi": "badia mikhran",
+    "khowar": "ژیبونی",
+    "romanKhowar": "xeboni",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھائے گا",
+    "romanFarsi": "badia mikhrat",
+    "khowar": "ژبوئی",
+    "romanKhowar": "xuboiy",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیئے گا",
+    "romanFarsi": "badia dam mikat",
+    "khowar": "پِئیر",
+    "romanKhowar": "peer",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیتے ہیں",
+    "romanFarsi": "dam mikan",
+    "khowar": "پِینِیَن",
+    "romanKhowar": "peenian",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیتا ہے",
+    "romanFarsi": "dam mikat",
+    "khowar": "پِیرَن",
+    "romanKhowar": "peeran",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیتے ہو",
+    "romanFarsi": "dam miki",
+    "khowar": "پِیسَن",
+    "romanKhowar": "peesan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھانا",
+    "romanFarsi": "noon",
+    "khowar": "ݰاپِیک",
+    "romanKhowar": "shapik",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "چائے",
+    "romanFarsi": "choiy",
+    "khowar": "چائے",
+    "romanKhowar": "chaaiy",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھاتا ہے",
+    "romanFarsi": "mikhrat",
+    "khowar": "ژوبویَن",
+    "romanKhowar": "xuboyan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھاتے ہیں",
+    "romanFarsi": "mikhran",
+    "khowar": "ژبونیان",
+    "romanKhowar": "xubonian",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھاتے ہو",
+    "romanFarsi": "mikhri",
+    "khowar": "ژبوسَن",
+    "romanKhowar": "xubosan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ کھانا کھا رہے تھے",
+    "romanFarsi": "uno noon mikhrdan",
+    "khowar": "ہتیت ݰاپِیک ژوباؤشتَنی",
+    "romanKhowar": "hatet shapik xubawoshtani",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ کھانا کھا رہا تھا",
+    "romanFarsi": "uo noon mikhrd",
+    "khowar": "ہسہ ݰاپِیک ژوباؤشتائی",
+    "romanKhowar": "hase shapik xubawoshtaiy",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "میں کھانا کھا رہا تھا",
+    "romanFarsi": "ma noon mikhrdm",
+    "khowar": "اوا ݰاپِیک ژوباؤشتام",
+    "romanKhowar": "awa shapik xubawoshtam",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ کھانا کھا رہے ہیں",
+    "romanFarsi": "uno noon mikhran",
+    "khowar": "ہتیت ݰاپِیک ژوبونِیَن",
+    "romanKhowar": "hatet shapik xubonian",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ کھانا کھا رہا ہے",
+    "romanFarsi": "uo noon mikhrat",
+    "khowar": "ہسہ ݰاپِیک ژبویَن",
+    "romanKhowar": "hase shapik xeboyan",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "میں کھانا کھا رہا ہوں",
+    "romanFarsi": "ma noon mikhrm",
+    "khowar": "اوا ݰاپِیک ژِبومن",
+    "romanKhowar": "awa shapik xeboman",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ چائے پی رہے تھے",
+    "romanFarsi": "uno choiy dam mikadan",
+    "khowar": "ہتیت چائے پیاؤشتانی",
+    "romanKhowar": "hatet chaaiy piawoshtani",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ چائے پی رہا تھا",
+    "romanFarsi": "uo choiy dam mikad",
+    "khowar": "ہسہ چائے پِیاؤشتائی",
+    "romanKhowar": "hase chaaiy piawoshtaiy",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "میں چائے پی رہا تھا",
+    "romanFarsi": "ma choiy dam mikadm",
+    "khowar": "اوا چائے پِیاؤشتام",
+    "romanKhowar": "awa chaaiy piawoshtam",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "میں چائے پی رہا ہوں",
+    "romanFarsi": "ma choiy dam mikm",
+    "khowar": "اوا چائے پِیمن",
+    "romanKhowar": "awa chaaiy piman",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ چائے پی رہے ہیں",
+    "romanFarsi": "uno choiy dam mikan",
+    "khowar": "ہتیت چائے پِینیان",
+    "romanKhowar": "hatet chaaiy pinian",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ چائے پی رہا ہے",
+    "romanFarsi": "uo choiy dam mikat",
+    "khowar": "ہسہ چائے پِیران",
+    "romanKhowar": "hase chaaiy piran",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کیا آپ نے چائے پیئے",
+    "romanFarsi": "shmo choiy dam kadita",
+    "khowar": "پیسہ چائے پِیتَمیہ",
+    "romanKhowar": "pisa chaaiy pitamia",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "چائے پیئے",
+    "romanFarsi": "choiy dam knit",
+    "khowar": "چائے پِیُور",
+    "romanKhowar": "chaaiy piyoor",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "چائے پیو",
+    "romanFarsi": "choiy dam kn",
+    "khowar": "چائے پیئے",
+    "romanKhowar": "chaaiy piye",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ چائے پی لیے",
+    "romanFarsi": "uno choiy dam kaan",
+    "khowar": "ہتیت چائے پیتنی",
+    "romanKhowar": "hatet chaaiy pitani",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کیا وہ  چائے پی لئے؟",
+    "romanFarsi": "uno choiy dam kaana?",
+    "khowar": "ہتیت چائے پیتانیہ؟",
+    "romanKhowar": "hatet chaaiy pitania?",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کیا اس نے چائے پیا؟",
+    "romanFarsi": "uo choiy dam kada?",
+    "khowar": "ہسہ چائے پِیتائیہ؟",
+    "romanKhowar": "hase chaiy pitaiya?",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کیا آپ نے چائے پیا؟",
+    "romanFarsi": "te choiy dam kadia?",
+    "khowar": "تُو چائے پِیتاؤا؟",
+    "romanKhowar": "tu chaaiy pitawa?",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "اس نے چائے پیا",
+    "romanFarsi": "uo choiy dam kad",
+    "khowar": "ہسہ چائے پِیتائی",
+    "romanKhowar": "hase' chaaiy pitaiy",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "شام کے لئے کیا کھانا بناتے ہو",
+    "romanFarsi": "ba bigaiy che misozi",
+    "khowar": "بوتوتے کیاغ پݯیسان",
+    "romanKhowar": "bototey kiagh pachesan",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "شام کے لئے کیا کھانا بنائے ہو",
+    "romanFarsi": "ba bigaiy che sokhtaiy",
+    "khowar": "بوتوتے کیاغ پݯے اسوز",
+    "romanKhowar": "bototey kiagh pachay asus",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "چینی",
+    "romanFarsi": "shakar",
+    "khowar": "شوکور",
+    "romanKhowar": "shokor",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "نمک",
+    "romanFarsi": "nmk",
+    "khowar": "تروپ",
+    "romanKhowar": "troop",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وقت پر",
+    "romanFarsi": "wakht",
+    "khowar": "راغْݰٹی",
+    "romanKhowar": "raghshti",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "بجلی آگئی",
+    "romanFarsi": "bijli amad",
+    "khowar": "بجلی ہَنی",
+    "romanKhowar": "bijli hani",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "بجلی چلی گئی",
+    "romanFarsi": "bijili raft",
+    "khowar": "بجلی بغانی",
+    "romanKhowar": "bijli baghani",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "سحری",
+    "romanFarsi": "sehri",
+    "khowar": "سحری",
+    "romanKhowar": "sehri",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "روزہ افطاری",
+    "romanFarsi": "ruza aftori",
+    "khowar": "روچھی دریک",
+    "romanKhowar": "rochi-drek",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "روزہ",
+    "romanFarsi": "ruza",
+    "khowar": "روچھی",
+    "romanKhowar": "rochi",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پن چکی",
+    "romanFarsi": "asyob",
+    "khowar": "خورہ",
+    "romanKhowar": "khora",
+    "type": "word",
+    "relation": "normal",
+    "areaRelations": {
+      "پن چکی": "normal"
+    }
+  },
+  {
+    "urdu": "نہر",
+    "romanFarsi": "jbor",
+    "khowar": "ژوئی",
+    "romanKhowar": "xhoiy",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "بلی",
+    "romanFarsi": "pshk",
+    "khowar": "پُوشی 🐈",
+    "romanKhowar": "pushi 🐈",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ازان دیا گیا",
+    "romanFarsi": "ozona don",
+    "khowar": "ازان ریتَنی",
+    "romanKhowar": "azaan retani",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھائے",
+    "romanFarsi": "bkhrit",
+    "khowar": "ژُوبور",
+    "romanKhowar": "xhubor",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھاؤ",
+    "romanFarsi": "bkhr",
+    "khowar": "ژِیبے",
+    "romanKhowar": "xhibey",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیئے",
+    "romanFarsi": "dam knit",
+    "khowar": "پِیور",
+    "romanKhowar": "piyoor",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیو",
+    "romanFarsi": "dam kn",
+    "khowar": "پِیئے",
+    "romanKhowar": "piye'",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھاتے ہوں؟",
+    "romanFarsi": "mikhrita",
+    "khowar": "ژُوبومیانہ؟",
+    "romanKhowar": "xhubomiana?",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کھاتے ہو؟",
+    "romanFarsi": "mikhria?",
+    "khowar": "ژوبوسانہ؟",
+    "romanKhowar": "xhubosana?",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیتے ہوں؟",
+    "romanFarsi": "dam mikita?",
+    "khowar": "پِیمیانہ؟",
+    "romanKhowar": "pimiana?",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیتا ہوں",
+    "romanFarsi": "dam mikm",
+    "khowar": "پِیمان",
+    "romanKhowar": "piman",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پیتے ہو؟",
+    "romanFarsi": "dam mikia?",
+    "khowar": "پِیسانہ؟",
+    "romanKhowar": "pisana?",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پانی",
+    "romanFarsi": "ow",
+    "khowar": "اُوغ",
+    "romanKhowar": "ugh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "درد کرتے ہیں",
+    "romanFarsi": "dard mikan",
+    "khowar": "ݯمینیان",
+    "romanKhowar": "chhamenian",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "درد کرتا ہے",
+    "romanFarsi": "dard mikad",
+    "khowar": "ݯمیران",
+    "romanKhowar": "chhameran",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "خون",
+    "romanFarsi": "khun",
+    "khowar": "لَئے",
+    "romanKhowar": "laiy",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "دل",
+    "romanFarsi": "dl",
+    "khowar": "ہردی",
+    "romanKhowar": "hardi",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ہتھیلی",
+    "romanFarsi": "kafi dst",
+    "khowar": "ہوستو پان",
+    "romanKhowar": "hosto paan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ہڈی",
+    "romanFarsi": "sdghon",
+    "khowar": "کولْ",
+    "romanKhowar": "kolh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "انگلی",
+    "romanFarsi": "lkek",
+    "khowar": "چامُوٹ",
+    "romanKhowar": "chamut",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "پاؤں",
+    "romanFarsi": "po",
+    "khowar": "پونگ",
+    "romanKhowar": "pong",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ٹانگ",
+    "romanFarsi": "bandi po",
+    "khowar": "ڈیک",
+    "romanKhowar": "dek",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ہاتھ",
+    "romanFarsi": "dst",
+    "khowar": "ہوست",
+    "romanKhowar": "host",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "مسوڑہ",
+    "romanFarsi": "wira",
+    "khowar": "نِٹَک",
+    "romanKhowar": "nitak",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "زبان",
+    "romanFarsi": "zbon",
+    "khowar": "لِگِینی",
+    "romanKhowar": "ligini",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "گلہ",
+    "romanFarsi": "gulu",
+    "khowar": "بُک",
+    "romanKhowar": "buk",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "رخسار",
+    "romanFarsi": "bari ru",
+    "khowar": "مُوخو ڈوک",
+    "romanKhowar": "mukho dok",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کانیں",
+    "romanFarsi": "gusho",
+    "khowar": "کاران",
+    "romanKhowar": "karaan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کان",
+    "romanFarsi": "gush",
+    "khowar": "کار",
+    "romanKhowar": "kaar",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "دانتیں",
+    "romanFarsi": "dondono",
+    "khowar": "دونان",
+    "romanKhowar": "donaan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "دانت",
+    "romanFarsi": "dondon",
+    "khowar": "دون",
+    "romanKhowar": "don",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "منہ",
+    "romanFarsi": "dahan",
+    "khowar": "اَپَک",
+    "romanKhowar": "apak",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ناک",
+    "romanFarsi": "fsk",
+    "khowar": "نِسکار",
+    "romanKhowar": "niskar",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "آنکھیں",
+    "romanFarsi": "chshmo 👀",
+    "khowar": "غیݯھان",
+    "romanKhowar": "ghechhan",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "آنکھ",
+    "romanFarsi": "chshm 👁️",
+    "khowar": "غیݯ",
+    "romanKhowar": "ghechh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کوا",
+    "romanFarsi": "zogh",
+    "khowar": "کاغ",
+    "romanKhowar": "kagh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "تلوار",
+    "romanFarsi": "shamshir",
+    "khowar": "کھونگور",
+    "romanKhowar": "khhongor",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "گدھا",
+    "romanFarsi": "khar",
+    "khowar": "گوردوغ",
+    "romanKhowar": "gordogh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "قینچی",
+    "romanFarsi": "qechi",
+    "khowar": "قحچی",
+    "romanKhowar": "qahchi",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "بیل",
+    "romanFarsi": "barzagow 🐂",
+    "khowar": "ریشو",
+    "romanKhowar": "reshu",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "گائے",
+    "romanFarsi": "gow 🐄️",
+    "khowar": "لیشُو",
+    "romanKhowar": "leshu",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "کالہ توت",
+    "romanFarsi": "tooti e siah",
+    "khowar": "ݰائِیکی",
+    "romanKhowar": "shaaiki",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "شہتوت",
+    "romanFarsi": "toot",
+    "khowar": "مۡراݯ",
+    "romanKhowar": "mrachh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "اخروٹ",
+    "romanFarsi": "chormaghz",
+    "khowar": "بِیرموغ",
+    "romanKhowar": "birmogh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "خوبانی",
+    "romanFarsi": "zordolu",
+    "khowar": "ژُولی",
+    "romanKhowar": "xhuli",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "ناشپاتی",
+    "romanFarsi": "tong",
+    "khowar": "ٹونگ",
+    "romanKhowar": "tong",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "انگور",
+    "romanFarsi": "angoor",
+    "khowar": "دروݯ",
+    "romanKhowar": "drochh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "شفتالو",
+    "romanFarsi": "shoftolu",
+    "khowar": "گِرگالوغ",
+    "romanKhowar": "girgalogh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "سیب",
+    "romanFarsi": "siw 🍎",
+    "khowar": "پلوغ",
+    "romanKhowar": "palogh",
+    "type": "word",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "عائشہ ابھی ابھی سکول سکول چلی گئی",
+    "romanFarsi": "Aisha ami sahtk ba school raft",
+    "khowar": "عائشہ تئیسوْ سکولی بغائی",
+    "romanKhowar": "Aisha tesu schooli baghaiy",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {
+      "سکول": "parallel"
+    }
+  },
+  {
+    "urdu": "عائشہ سکول چلی گئی ہے",
+    "romanFarsi": "Aisha ba school raftast",
+    "khowar": "عائشہ سکولوتے بی آسور",
+    "romanKhowar": "Aisha school'ote b asur",
+    "type": "sentence",
+    "relation": "below",
+    "areaRelations": {
+      "سکول": "below"
+    }
+  },
+  {
+    "urdu": "عائشہ سکول چلی گئی ہے",
+    "romanFarsi": "Aisha ba school raftast",
+    "khowar": "عائشہ سکول تُو بی آسور",
+    "romanKhowar": "Aisha school tu b asur",
+    "type": "sentence",
+    "relation": "above",
+    "areaRelations": {
+      "سکول": "above"
+    }
+  },
+  {
+    "urdu": "عائشہ سکول چلی گئی ہے",
+    "romanFarsi": "Aisha ba school raftast",
+    "khowar": "عائشہ سکولی بی آسور",
+    "romanKhowar": "Aisha schooli b asur",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {
+      "سکول": "parallel"
+    }
+  },
+  {
+    "urdu": "وہ ہسپتال میں ہیں",
+    "romanFarsi": "uno da haspatal an",
+    "khowar": "ہتیت ہسپتالا اسونی",
+    "romanKhowar": "hatet haspatala asuni",
+    "type": "sentence",
+    "relation": "below",
+    "areaRelations": {
+      "ہسپتال": "below"
+    }
+  },
+  {
+    "urdu": "وہ ہسپتال میں ہیں",
+    "romanFarsi": "uno da haspatal an",
+    "khowar": "ہتیت ہسپتال تُو اسونی",
+    "romanKhowar": "hatet haspatal tu asuni",
+    "type": "sentence",
+    "relation": "above",
+    "areaRelations": {
+      "ہسپتال": "above"
+    }
+  },
+  {
     "urdu": "میرے آنکھوں میں درد ہو رہا ہے",
-    "romanUrdu": "chshmom dard mikan",
+    "romanFarsi": "chshmoiy ma dard mikan",
     "khowar": "مہ غیݯ ݯمینیان",
     "romanKhowar": "ma ghechh chhamenian",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "اس کو داخلہ کیا گیا ہے",
-    "romanUrdu": "una dokhila kastan",
+    "romanFarsi": "una dokhila kastan",
     "khowar": "ہورو داخلہ کوری اسونی",
     "romanKhowar": "horo dakhila kori asuni",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "وہ آج ڈسچارج ہورہے ہیں",
-    "romanUrdu": "uno imrooz discharge mishan",
+    "romanFarsi": "uno imrooz discharge mishan",
     "khowar": "ہتیت ہنون ڈسچارج بونی",
     "romanKhowar": "hatet hanoon discharge boni",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "وہ آج ہسپتال سے ڈسچارج ہو رہے ہیں",
-    "romanUrdu": "uno imrooz aza haspatal discharge mishan",
-    "khowar": "ہتیت ہنون ہسپتالار ڈسچارج بونی",
-    "romanKhowar": "hatet hanoon haspatalar discharge boni",
-    "type": "sentence"
+    "romanFarsi": "uno Imrooz aza haspatal discharge mishan",
+    "khowar": "ہتیت ہنون ہسپتالاری ڈسچارج بونی",
+    "romanKhowar": "hatet hanoon haspatalari discharge boni",
+    "type": "sentence",
+    "relation": "normal",
+    "areaRelations": {
+      "ہسپتال": "normal"
+    }
   },
   {
     "urdu": "وہ ہستپال میں ہیں",
-    "romanUrdu": "uno da haspatal an",
+    "romanFarsi": "uno da haspatal an",
     "khowar": "ہتیت ہسپتالی اسونی",
     "romanKhowar": "hatet haspatali asuni",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {
+      "ہسپتال": "parallel"
+    }
   },
   {
     "urdu": "اس کو کینولہ کیا گیا ہے",
-    "romanUrdu": "una kenula kastan",
+    "romanFarsi": "horo kenula kori asuni",
     "khowar": "ہورو کینولہ کوری اسونی",
     "romanKhowar": "horo kenula kori asuni",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "بیمار کی طبیعت کیسی ہے",
-    "romanUrdu": "tabiati bihmor asaist",
+    "romanFarsi": "tabiati bihmor asaiyst",
     "khowar": "لہازو طبیعت کچہ شیر",
     "romanKhowar": "lahazo tabiat kicha sher",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "کیا آج ڈاکٹر ڈیوٹی کے لئے آتا ہے",
-    "romanUrdu": "imrooz dactar ba duty miata",
+    "romanFarsi": "imrrooz dactar ba duty miata?",
     "khowar": "ہنون ڈاکٹار ڈیوٹیوتے گویانہ",
-    "romanKhowar": "hanoon dactar duty ote goyana",
-    "type": "sentence"
+    "romanKhowar": "hanoon dactar duty ote goya?",
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "میرے کان میں درد ہے",
-    "romanUrdu": "gushm dard mikat",
+    "romanFarsi": "gushi ma dard mikad",
     "khowar": "مہ کار ݯمیران",
     "romanKhowar": "ma kaar chhameran",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "میرے ناک سے خون بہتا ہے",
-    "romanUrdu": "aza fski ma khun mirat",
+    "romanFarsi": "aza fski ma khun mirat",
     "khowar": "مہ نسکارین لئے گویان",
     "romanKhowar": "ma niskarain lay goyan",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "مجھے سخت کپکپی طاری ہوتی ہے",
-    "romanUrdu": "mana sakht sarmo-sarmo mikat",
+    "romanFarsi": "mana sakht sarmo sarmo mikat",
     "khowar": "مہ سخت اوݰک ݰِݰُو کویان",
     "romanKhowar": "ma sakht ushak shishu koyan",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "میں سخت کھانستا ہوں",
-    "romanUrdu": "mana sakht mislfonat",
-    "khowar": "اوا سخت کھپیمن",
+    "romanFarsi": "mana sakht mislfonat",
+    "khowar": "اوا سخت کھَپِیمَن",
     "romanKhowar": "awa sakht khhapiman",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "میں سخت بخار ہوں",
-    "romanUrdu": "ma sakht bukhor shiam",
+    "romanFarsi": "ma sakht bkhorm shiam",
     "khowar": "مہ سخت انداؤ کویان",
     "romanKhowar": "ma sakht andaaw koyan",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "میں سخت بیمار ہوں",
-    "romanUrdu": "ma sakht bihmorm",
+    "romanFarsi": "ma sakht bihmorm",
     "khowar": "اوا سخت لہاز اسوم",
     "romanKhowar": "awa sakht lahaz asum",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "امید ہے کہ آپ سب خیریت سے ہونگے",
-    "romanUrdu": "umeed mikm ki shmo soh bakhairit",
+    "romanFarsi": "umeed mikm ki shmo soh bakhairit",
     "khowar": "امید کومن کہ پیسہ صف خیرو سورا بومی",
     "romanKhowar": "umeed koman ki pisa saf khairo sora bomi",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "امید کرتا ہوں",
-    "romanUrdu": "umeed mikm",
+    "romanFarsi": "umeed mikm",
     "khowar": "امید کومن",
     "romanKhowar": "umeed koman",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "امید کرتا ہوں کہ آپ خیریت سے ہونگے",
-    "romanUrdu": "umeed mikm ki shmo bakhairit",
+    "romanFarsi": "umeed mikm ki shmo bakhairit",
     "khowar": "امید کومن کہ پیسہ خیرو سورا بومی",
     "romanKhowar": "umeed koman ki pisa khairo sora bomi",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "وعلیکم السلام",
-    "romanUrdu": "Waalaikum-Salam",
+    "romanFarsi": "Waalaikum-Salam",
     "khowar": "وعلیکم السلام",
     "romanKhowar": "Waalaikum-Salam",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "اسلام علیکم",
-    "romanUrdu": "Assalam-u-Alaikum",
+    "romanFarsi": "Assalam-u-Alaikum!",
     "khowar": "اسلام علیکم",
     "romanKhowar": "Assalam-u-Alaikum",
-    "type": "sentence"
-  },
-  {
-    "urdu": "میں ٹھیک ہوں",
-    "romanUrdu": "ma naghzm",
-    "khowar": "اوا جم اسوم",
-    "romanKhowar": "awa jam asum",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "کیا حال ہے",
-    "romanUrdu": "che hol dori",
+    "romanFarsi": "chi hol dori",
     "khowar": "کچہ اسوس",
     "romanKhowar": "kicha asus",
-    "type": "sentence"
-  },
-  {
-    "urdu": "مجھے سخت پیاس لگی ہے",
-    "romanUrdu": "ma sakht tishnow shiam",
-    "khowar": "مہ سخت اوغ پیارو گویان",
-    "romanKhowar": "ma sakht ogh piyaru goyan",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
   },
   {
     "urdu": "میرے سر میں سخت درد ہو رہا ہے",
-    "romanUrdu": "sari ma sakht dard mikat",
+    "romanFarsi": "sari ma sakht dard mikad",
     "khowar": "مہ کپال سخت ݯمیران",
     "romanKhowar": "ma kapaal sakht chhameran",
-    "type": "sentence"
+    "type": "sentence",
+    "relation": "parallel",
+    "areaRelations": {}
+  },
+  {
+    "urdu": "وہ آج ہسپتال سے ڈسچارج ہو رہے ہیں",
+    "romanFarsi": "uno imrooz aza haspatal discharge mishan",
+    "khowar": "ہتیت ہنون ہسپتالار ڈسچارج بونی",
+    "romanKhowar": "hatet hanoon haspatalar discharge boni",
+    "type": "sentence",
+    "relation": "normal",
+    "areaRelations": {
+      "ہسپتال": "normal"
+    }
   }
 ]
